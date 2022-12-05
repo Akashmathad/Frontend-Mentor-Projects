@@ -1,0 +1,19 @@
+@media (max-width: 25em) {
+  html {
+    font-size: 55%;
+  }
+  .container {
+    max-width: 37rem;
+  }
+
+  .rating {
+    width: 34rem;
+  }
+  .greeting {
+    width: 34rem;
+  }
+
+  .rating-numbers {
+    padding: 0;
+  }
+}
